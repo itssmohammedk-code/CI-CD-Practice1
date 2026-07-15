@@ -20,3 +20,11 @@ This change is made to verify the Jenkins pipeline.
 ## Test Update
 
 This change is made to verify the Jenkins pipeline.
+---
+
+## Jenkins Pipeline Test
+
+This is a test change to verify that Jenkins detects updates from GitHub.
+
+Updated by: Mohd Khan
+Date: 15 July 2026
